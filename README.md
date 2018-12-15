@@ -1,2 +1,2 @@
-# abdumalik0098.github.io
-My first web page !
+# Khidrov Abdumalik
+My first web page and i web devloper !
