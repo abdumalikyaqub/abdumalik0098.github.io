@@ -1,0 +1,42 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: #ffcc66;
+	font-size: 30px;
+}
+.center{
+	
+	position: absolute;
+	top: 50%;
+	left: 0;
+	transform: translate(0,-50%);
+	text-align: center;
+	width: 100%;
+}
+.center span{
+	font-family: arial;
+	font-size: 50px;
+	color: #000;
+}
+p{
+	font-size: 50px;
+}
+p em{
+	font-size: 30px;
+}
+/* .r .g .w{
+	width: 100%;
+	height: 300px;
+	
+}
+.r{
+	background: #FF0000FF;
+}
+.w{
+	background: #FFFFFFFF;
+
+}
+
+.g{
+	background: #007F0EFF;
+} */
