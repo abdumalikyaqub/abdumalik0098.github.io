@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Phone Number</title>
+
+	
+	<link rel="stylesheet" href="css/style.css">
+
+</head>
+<body>
+	<section class="phone-number">
+		
+		<form action="http://localhost/" method="POST" >
+			<div class="wrap-input">
+				<input type="tel" class="form__input" id="phone" name="phone" placeholder="+7 ___ ___ ____">
+			</div>
+			<div class="wrap-btn">
+				<button type="submit" class="btn form__btn" onclick="return validate();">Отправить заявку</button>		
+			</div>
+		</form>
+
+	</section>
+
+
+
+	<script src="js/jquery-3.4.1.slim.min.js"></script>
+	<script src="js/jquery.maskedinput.min.js"></script>
+	<script>
+		$(document).ready(function () {
+			$("#phone").mask("+7 (999) 999-99-99");
+		});
+	</script>
+	<script>
+		function validate() {
+			var phone = document.getElementById('phone');
+
+			if (!phone.value) {
+				phone.style.border = "2px solid red";
+				return false;
+			}
+			return true;
+		}
+	</script>
+</body>
+</html>
