@@ -14,3 +14,6 @@
 
 [My Project](https://abdumalik0098.github.io/myproj/)
 
+[Convert](https://abdumalik0098.github.io/_convert/)
+
+[Freelancer](https://abdumalik0098.github.io/freelancer/)
