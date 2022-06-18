@@ -1,5 +1,9 @@
-> # Portfolio of Khidirov Abdumalik
-
+> # Абдумалик Хидиров - Разработчик.
+>> Контакты: +7996 331-02-14 (WA)
+>> [Телеграм](https://t.me/malik_khidirov)
+> 
+>> E-mail: khidirov.abdumalik@mail.ru
+> ## Портфолио
 >> [Johnny Rolls - суши маркет](https://johnnyrolls.ru/)
 >> 
 >> [Самарканд - кафе восточной кухни](https://samarqand42.ru/)
