@@ -1,19 +1,11 @@
-# Portfolio of Khidirov Abdumalik
+> # Portfolio of Khidirov Abdumalik
 
-[React Todo App](https://abdumalik0098.github.io/todo_app/)
-
-[Html and CSS](https://abdumalik0098.github.io/startgitpage/)
-
-[CSS Text](https://abdumalik0098.github.io/ccs_text/)
-
-[CSS Typed](https://abdumalik0098.github.io/css_typed/)
-
-[Portfolio](https://abdumalik0098.github.io/dway/)
-
-[First Project](https://abdumalik0098.github.io/firstproj/)
-
-[My Project](https://abdumalik0098.github.io/myproj/)
-
-[Convert](https://abdumalik0098.github.io/_convert/)
-
-[Freelancer](https://abdumalik0098.github.io/freelancer/)
+>> [Johnny Rolls - суши маркет](https://johnnyrolls.ru/)
+>> [Самарканд - кафе восточной кухни](https://samarqand42.ru/)
+>> [React Todo App](https://abdumalik0098.github.io/todo_app/)
+>> [LuxeBass - магазин электроники](https://luxebass.ru/)
+>> [Сайт по услугу оштукатуривание (учебный)](https://abdumalik0098.github.io/myproj/)
+>> [YaFreelancer - фриланс биржа (учебный проект)](https://abdumalik0098.github.io/freelancer/)
+>> [C# Задачи](https://github.com/abdumalik0098/csharp-practice)
+>> [C++ Задачи](https://github.com/abdumalik0098/cv-cpp)
+>> [Python Задачи](https://github.com/abdumalik0098/python-practice)
