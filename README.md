@@ -17,3 +17,5 @@
 >> [C++ Задачи](https://github.com/abdumalik0098/cv-cpp)
 >> 
 >> [Python Задачи](https://github.com/abdumalik0098/python-practice)
+>> 
+>> [Дизайн](https://github.com/abdumalik0098/design)
